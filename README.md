@@ -15,7 +15,7 @@ function InWords(float $number): string
 + Output: A string with the number converted to words (Rupees and Paise)
 
 ## 🧠 Example Usage
-```
+```php
 <?php
 include 'inwords.php';
 
@@ -25,7 +25,7 @@ echo InWords(1234567.89);
 ## 📦 Installation
 1. Clone or download this script.
 2. Include it in your PHP project:
-```
+```php
 include 'inwords.php';
 ```
 3. Call the InWords() function with any numeric value.
